@@ -43,7 +43,14 @@
 		var sum_values;
     	var formatPercentage = d3.format(".0%");
     	var formatNumber = d3.format(",");
-					
+	
+	$(document).ready(function(){
+			initializeFlow();
+			
+			//Load aggregated data
+			loadAggregate();
+		});  	
+		
 		function refresh()
 		{
 			if(load_finished)
