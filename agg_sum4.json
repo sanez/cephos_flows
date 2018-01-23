@@ -1,0 +1,407 @@
+[
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iLombardia",
+      "value" : 519
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iPuglia",
+      "value" : 377
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iCampania",
+      "value" : 344
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iPiemonte",
+      "value" : 313
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iLazio",
+      "value" : 297
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iCalabria",
+      "value" : 287
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iSicilia",
+      "value" : 285
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iLiguria",
+      "value" : 258
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iEmilia-Romagna",
+      "value" : 241
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iAbruzzo",
+      "value" : 236
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iUmbria",
+      "value" : 209
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iToscana",
+      "value" : 169
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iFriuli Venezia-Giulia",
+      "value" : 166
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iVeneto",
+      "value" : 157
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iMarche",
+      "value" : 157
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iSardegna",
+      "value" : 124
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iBasilicata",
+      "value" : 79
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iMolise",
+      "value" : 58
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iTrentino",
+      "value" : 43
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iBolzano",
+      "value" : 23
+    },
+    {
+      "aggregate" : "regione residenza paziente",
+      "dimension" : "iValle d'Aosta",
+      "value" : 14
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dToscana",
+      "value" : 1255
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dLombardia",
+      "value" : 474
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dEmilia-Romagna",
+      "value" : 389
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dVeneto",
+      "value" : 331
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dLazio",
+      "value" : 322
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dLiguria",
+      "value" : 284
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dAbruzzo",
+      "value" : 266
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dPiemonte",
+      "value" : 198
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dMarche",
+      "value" : 188
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dSicilia",
+      "value" : 140
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dPuglia",
+      "value" : 93
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dCalabria",
+      "value" : 89
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dCampania",
+      "value" : 80
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dBasilicata",
+      "value" : 72
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dMolise",
+      "value" : 45
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dSardegna",
+      "value" : 38
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dUmbria",
+      "value" : 30
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dBolzano",
+      "value" : 24
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dValle d'Aosta",
+      "value" : 14
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dFriuli Venezia-Giulia",
+      "value" : 14
+    },
+    {
+      "aggregate" : "regione ricovero",
+      "dimension" : "dTrentino",
+      "value" : 10
+    },
+ {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gToscana priv",
+      "value" : 714
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gToscana pub_aoui",
+      "value" : 384
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gToscana pub",
+      "value" : 157
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gLombardia pub",
+      "value" : 354
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gLombardia priv",
+      "value" : 120
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gEmilia-Romagna pub",
+      "value" : 221
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gEmilia-Romagna priv",
+      "value" : 168
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gVeneto pub",
+      "value" : 110
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gVeneto priv",
+      "value" : 216
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gVeneto pub_aoui",
+      "value" : 5
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gLazio pub",
+      "value" : 243
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gLazio pub_aoui",
+      "value" : 62
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gLazio priv",
+      "value" : 17
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gLiguria pub",
+      "value" : 256
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gLiguria priv",
+      "value" : 28
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gAbruzzo priv",
+      "value" : 164
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gAbruzzo pub",
+      "value" : 102
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gPiemonte pub",
+      "value" : 162
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gPiemonte pub_aoui",
+      "value" : 28
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gPiemonte priv",
+      "value" : 8
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gMarche pub",
+      "value" : 188
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gSicilia pub",
+      "value" : 101
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gSicilia pub_aoui",
+      "value" : 28
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gSicilia priv",
+      "value" : 11
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gPuglia pub",
+      "value" : 83
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gPuglia pub_aoui",
+      "value" : 10
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gCalabria pub",
+      "value" : 87
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gCalabria priv",
+      "value" : 2
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gCampania pub",
+      "value" : 66
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gCampania pub_aoui",
+      "value" : 14
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gBasilicata pub",
+      "value" : 72
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gMolise pub",
+      "value" : 45
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gSardegna pub",
+      "value" : 38
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gUmbria pub",
+      "value" : 30
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gBolzano pub",
+      "value" : 24
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gValle d'Aosta pub",
+      "value" : 14
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gFriuli Venezia-Giulia pub_aoui",
+      "value" : 9
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gFriuli Venezia-Giulia pub",
+      "value" : 5
+    },
+    {
+      "aggregate" : "tipo di struttura",
+      "dimension" : "gTrentino pub",
+      "value" : 10
+    }
+]

@@ -1,0 +1,2761 @@
+[
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dValle d'Aosta",
+      "tipo di struttura" : "gValle d'Aosta pub",
+      "value" : 10
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dTrentino",
+      "tipo di struttura" : "gTrentino pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 44
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 10
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 69
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 22
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 56
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 18
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dFriuli Venezia-Giulia",
+      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iPiemonte",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iValle d'Aosta",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iValle d'Aosta",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iValle d'Aosta",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iValle d'Aosta",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iValle d'Aosta",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iValle d'Aosta",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iValle d'Aosta",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iValle d'Aosta",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iValle d'Aosta",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 33
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 14
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dValle d'Aosta",
+      "tipo di struttura" : "gValle d'Aosta pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 27
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 105
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub_aoui",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 30
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 13
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 47
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dMolise",
+      "tipo di struttura" : "gMolise pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 49
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 10
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 35
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 54
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 12
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iLombardia",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iBolzano",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iBolzano",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iBolzano",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iBolzano",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBolzano",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iBolzano",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBolzano",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBolzano",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iBolzano",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iTrentino",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dTrentino",
+      "tipo di struttura" : "gTrentino pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 12
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 23
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 12
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 26
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dFriuli Venezia-Giulia",
+      "tipo di struttura" : "gFriuli Venezia-Giulia pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dFriuli Venezia-Giulia",
+      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 22
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iVeneto",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 97
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 27
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dTrentino",
+      "tipo di struttura" : "gTrentino pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iFriuli Venezia-Giulia",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 31
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 102
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 26
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 18
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 23
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iLiguria",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 10
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 21
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 11
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 36
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub_aoui",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 35
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 40
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 11
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iEmilia-Romagna",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dTrentino",
+      "tipo di struttura" : "gTrentino pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 24
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 35
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dFriuli Venezia-Giulia",
+      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 21
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 12
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iToscana",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 94
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 30
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 19
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 16
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iUmbria",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dTrentino",
+      "tipo di struttura" : "gTrentino pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 25
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 13
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dMolise",
+      "tipo di struttura" : "gMolise pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 15
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 10
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 18
+    },
+    {
+      "regione residenza paziente" : "iMarche",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 26
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 23
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 60
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub_aoui",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 10
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dMolise",
+      "tipo di struttura" : "gMolise pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 21
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 11
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 16
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub_aoui",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 20
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 10
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 26
+    },
+    {
+      "regione residenza paziente" : "iLazio",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 61
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dMolise",
+      "tipo di struttura" : "gMolise pub",
+      "value" : 16
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 71
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 22
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dFriuli Venezia-Giulia",
+      "tipo di struttura" : "gFriuli Venezia-Giulia pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iAbruzzo",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 12
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 22
+    },
+    {
+      "regione residenza paziente" : "iMolise",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 12
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dValle d'Aosta",
+      "tipo di struttura" : "gValle d'Aosta pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dTrentino",
+      "tipo di struttura" : "gTrentino pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 30
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 30
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 15
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dMolise",
+      "tipo di struttura" : "gMolise pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 28
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 44
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 11
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 54
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dFriuli Venezia-Giulia",
+      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 18
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iCampania",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 7
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 26
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 87
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 11
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dMolise",
+      "tipo di struttura" : "gMolise pub",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 11
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 20
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 15
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 14
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 26
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub_aoui",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iPuglia",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 88
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dFriuli Venezia-Giulia",
+      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iBasilicata",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dValle d'Aosta",
+      "tipo di struttura" : "gValle d'Aosta pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 32
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 37
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 24
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub_aoui",
+      "value" : 11
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub_aoui",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dMolise",
+      "tipo di struttura" : "gMolise pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 30
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 12
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 18
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dBasilicata",
+      "tipo di struttura" : "gBasilicata pub",
+      "value" : 31
+    },
+    {
+      "regione residenza paziente" : "iCalabria",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dValle d'Aosta",
+      "tipo di struttura" : "gValle d'Aosta pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 18
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 31
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 33
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dSardegna",
+      "tipo di struttura" : "gSardegna pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dPuglia",
+      "tipo di struttura" : "gPuglia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 14
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 19
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 36
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 14
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub_aoui",
+      "value" : 10
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 20
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dFriuli Venezia-Giulia",
+      "tipo di struttura" : "gFriuli Venezia-Giulia pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 6
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 13
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub",
+      "value" : 4
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dCampania",
+      "tipo di struttura" : "gCampania pub_aoui",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 34
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dBolzano",
+      "tipo di struttura" : "gBolzano pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSicilia",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dVeneto",
+      "tipo di struttura" : "gVeneto pub",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dUmbria",
+      "tipo di struttura" : "gUmbria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dTrentino",
+      "tipo di struttura" : "gTrentino pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana priv",
+      "value" : 22
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub_aoui",
+      "value" : 12
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dToscana",
+      "tipo di struttura" : "gToscana pub",
+      "value" : 8
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dSicilia",
+      "tipo di struttura" : "gSicilia pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub_aoui",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte pub",
+      "value" : 9
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dPiemonte",
+      "tipo di struttura" : "gPiemonte priv",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dMarche",
+      "tipo di struttura" : "gMarche pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia priv",
+      "value" : 3
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dLombardia",
+      "tipo di struttura" : "gLombardia pub",
+      "value" : 17
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria priv",
+      "value" : 5
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dLiguria",
+      "tipo di struttura" : "gLiguria pub",
+      "value" : 10
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dLazio",
+      "tipo di struttura" : "gLazio pub",
+      "value" : 14
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dFriuli Venezia-Giulia",
+      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna pub",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dEmilia-Romagna",
+      "tipo di struttura" : "gEmilia-Romagna priv",
+      "value" : 2
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dCalabria",
+      "tipo di struttura" : "gCalabria pub",
+      "value" : 1
+    },
+    {
+      "regione residenza paziente" : "iSardegna",
+      "regione ricovero" : "dAbruzzo",
+      "tipo di struttura" : "gAbruzzo pub",
+      "value" : 1
+    }]
