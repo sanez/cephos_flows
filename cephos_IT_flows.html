@@ -13,7 +13,6 @@
 	<script type="text/javascript" src="flowShape.js"></script>
 	<script type="text/javascript" src="string-operations.js"></script>
 	<script type="text/javascript" src="d3.tip.min.js"></script>
-	<script type="text/javascript" src="persistChart.js"></script>	
 	<script type="application/javascript">    
 		
 		/* Constant identifiers */
@@ -44,20 +43,7 @@
 		var sum_values;
     	var formatPercentage = d3.format(".0%");
     	var formatNumber = d3.format(",");
-				
-		$(document).ready(function(){
-			initializeFlow();
-			
-			//Load aggregated data
-			loadAggregate();
-						
-			drawPersistChart();
-		});  
-	   
-
-
-		// end persist chart
-		
+					
 		function refresh()
 		{
 			if(load_finished)
