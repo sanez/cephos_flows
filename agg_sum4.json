@@ -1,406 +1,406 @@
 [
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iLombardia",
       "value" : 519
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iPuglia",
       "value" : 377
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iCampania",
       "value" : 344
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iPiemonte",
       "value" : 313
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iLazio",
       "value" : 297
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iCalabria",
       "value" : 287
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iSicilia",
       "value" : 285
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iLiguria",
       "value" : 258
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iEmilia-Romagna",
       "value" : 241
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iAbruzzo",
       "value" : 236
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iUmbria",
       "value" : 209
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iToscana",
       "value" : 169
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iFriuli Venezia-Giulia",
       "value" : 166
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iVeneto",
       "value" : 157
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iMarche",
       "value" : 157
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iSardegna",
       "value" : 124
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iBasilicata",
       "value" : 79
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iMolise",
       "value" : 58
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iTrentino",
       "value" : 43
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iBolzano",
       "value" : 23
     },
     {
-      "aggregate" : "regione residenza paziente",
+      "aggregate" : "patient residence region",
       "dimension" : "iValle d'Aosta",
       "value" : 14
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dToscana",
       "value" : 1255
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dLombardia",
       "value" : 474
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dEmilia-Romagna",
       "value" : 389
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dVeneto",
       "value" : 331
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dLazio",
       "value" : 322
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dLiguria",
       "value" : 284
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dAbruzzo",
       "value" : 266
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dPiemonte",
       "value" : 198
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dMarche",
       "value" : 188
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dSicilia",
       "value" : 140
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dPuglia",
       "value" : 93
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dCalabria",
       "value" : 89
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dCampania",
       "value" : 80
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dBasilicata",
       "value" : 72
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dMolise",
       "value" : 45
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dSardegna",
       "value" : 38
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dUmbria",
       "value" : 30
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dBolzano",
       "value" : 24
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dValle d'Aosta",
       "value" : 14
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dFriuli Venezia-Giulia",
       "value" : 14
     },
     {
-      "aggregate" : "regione ricovero",
+      "aggregate" : "hospitalization region",
       "dimension" : "dTrentino",
       "value" : 10
     },
  {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gToscana priv",
       "value" : 714
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gToscana pub_aoui",
       "value" : 384
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gToscana pub",
       "value" : 157
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gLombardia pub",
       "value" : 354
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gLombardia priv",
       "value" : 120
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gEmilia-Romagna pub",
       "value" : 221
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gEmilia-Romagna priv",
       "value" : 168
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gVeneto pub",
       "value" : 110
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gVeneto priv",
       "value" : 216
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gVeneto pub_aoui",
       "value" : 5
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gLazio pub",
       "value" : 243
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gLazio pub_aoui",
       "value" : 62
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gLazio priv",
       "value" : 17
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gLiguria pub",
       "value" : 256
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gLiguria priv",
       "value" : 28
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gAbruzzo priv",
       "value" : 164
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gAbruzzo pub",
       "value" : 102
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gPiemonte pub",
       "value" : 162
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gPiemonte pub_aoui",
       "value" : 28
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gPiemonte priv",
       "value" : 8
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gMarche pub",
       "value" : 188
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gSicilia pub",
       "value" : 101
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gSicilia pub_aoui",
       "value" : 28
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gSicilia priv",
       "value" : 11
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gPuglia pub",
       "value" : 83
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gPuglia pub_aoui",
       "value" : 10
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gCalabria pub",
       "value" : 87
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gCalabria priv",
       "value" : 2
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gCampania pub",
       "value" : 66
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gCampania pub_aoui",
       "value" : 14
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gBasilicata pub",
       "value" : 72
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gMolise pub",
       "value" : 45
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gSardegna pub",
       "value" : 38
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gUmbria pub",
       "value" : 30
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gBolzano pub",
       "value" : 24
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gValle d'Aosta pub",
       "value" : 14
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 9
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gFriuli Venezia-Giulia pub",
       "value" : 5
     },
     {
-      "aggregate" : "tipo di struttura",
+      "aggregate" : "ownership",
       "dimension" : "gTrentino pub",
       "value" : 10
     }
