@@ -1,2761 +1,2761 @@
 [
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dValle d'Aosta",
-      "tipo di struttura" : "gValle d'Aosta pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dValle d'Aosta",
+      "ownership" : "gValle d'Aosta pub",
       "value" : 10
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dTrentino",
-      "tipo di struttura" : "gTrentino pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dTrentino",
+      "ownership" : "gTrentino pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 44
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia priv",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 10
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 69
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 22
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 56
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 18
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dFriuli Venezia-Giulia",
-      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dFriuli Venezia-Giulia",
+      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iPiemonte",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iPiemonte",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iValle d'Aosta",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iValle d'Aosta",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iValle d'Aosta",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iValle d'Aosta",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iValle d'Aosta",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte priv",
+      "patient residence region" : "iValle d'Aosta",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iValle d'Aosta",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iValle d'Aosta",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iValle d'Aosta",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iValle d'Aosta",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iValle d'Aosta",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iValle d'Aosta",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iValle d'Aosta",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iValle d'Aosta",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iValle d'Aosta",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iValle d'Aosta",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iValle d'Aosta",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria priv",
+      "patient residence region" : "iValle d'Aosta",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 33
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 14
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dValle d'Aosta",
-      "tipo di struttura" : "gValle d'Aosta pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dValle d'Aosta",
+      "ownership" : "gValle d'Aosta pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 27
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 105
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia priv",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub_aoui",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub_aoui",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 30
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 13
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 47
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte priv",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dMolise",
-      "tipo di struttura" : "gMolise pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dMolise",
+      "ownership" : "gMolise pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 49
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 10
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 35
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 54
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 12
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub_aoui",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iLombardia",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iLombardia",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iBolzano",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iBolzano",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iBolzano",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iBolzano",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iBolzano",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iBolzano",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iBolzano",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iBolzano",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBolzano",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iBolzano",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iBolzano",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iBolzano",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBolzano",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iBolzano",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBolzano",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iBolzano",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iBolzano",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iBolzano",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iTrentino",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iTrentino",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dTrentino",
-      "tipo di struttura" : "gTrentino pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dTrentino",
+      "ownership" : "gTrentino pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 12
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 23
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 12
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 26
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dFriuli Venezia-Giulia",
-      "tipo di struttura" : "gFriuli Venezia-Giulia pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dFriuli Venezia-Giulia",
+      "ownership" : "gFriuli Venezia-Giulia pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dFriuli Venezia-Giulia",
-      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dFriuli Venezia-Giulia",
+      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 22
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iVeneto",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iVeneto",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub_aoui",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 97
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 27
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dTrentino",
-      "tipo di struttura" : "gTrentino pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dTrentino",
+      "ownership" : "gTrentino pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iFriuli Venezia-Giulia",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iFriuli Venezia-Giulia",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 31
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 102
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub_aoui",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 26
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 18
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 23
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub_aoui",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iLiguria",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iLiguria",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 10
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 21
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 11
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 36
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub_aoui",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub_aoui",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 35
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 40
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 11
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria priv",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iEmilia-Romagna",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iEmilia-Romagna",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dTrentino",
-      "tipo di struttura" : "gTrentino pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dTrentino",
+      "ownership" : "gTrentino pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia priv",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub_aoui",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte priv",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 24
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 35
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dFriuli Venezia-Giulia",
-      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dFriuli Venezia-Giulia",
+      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 21
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 12
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub_aoui",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iToscana",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iToscana",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 94
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 30
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 19
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 16
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iUmbria",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iUmbria",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dTrentino",
-      "tipo di struttura" : "gTrentino pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dTrentino",
+      "ownership" : "gTrentino pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 25
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 13
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub_aoui",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia priv",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub_aoui",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dMolise",
-      "tipo di struttura" : "gMolise pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dMolise",
+      "ownership" : "gMolise pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 15
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 10
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 18
     },
     {
-      "regione residenza paziente" : "iMarche",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iMarche",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 26
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 23
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 60
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub_aoui",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub_aoui",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 10
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dMolise",
-      "tipo di struttura" : "gMolise pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dMolise",
+      "ownership" : "gMolise pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 21
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 11
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 16
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub_aoui",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub_aoui",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 20
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 10
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 26
     },
     {
-      "regione residenza paziente" : "iLazio",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iLazio",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 61
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub_aoui",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dMolise",
-      "tipo di struttura" : "gMolise pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dMolise",
+      "ownership" : "gMolise pub",
       "value" : 16
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 71
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 22
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dFriuli Venezia-Giulia",
-      "tipo di struttura" : "gFriuli Venezia-Giulia pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dFriuli Venezia-Giulia",
+      "ownership" : "gFriuli Venezia-Giulia pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iAbruzzo",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iAbruzzo",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 12
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 22
     },
     {
-      "regione residenza paziente" : "iMolise",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iMolise",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 12
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dValle d'Aosta",
-      "tipo di struttura" : "gValle d'Aosta pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dValle d'Aosta",
+      "ownership" : "gValle d'Aosta pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dTrentino",
-      "tipo di struttura" : "gTrentino pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dTrentino",
+      "ownership" : "gTrentino pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 30
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 30
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub_aoui",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub_aoui",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 15
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dMolise",
-      "tipo di struttura" : "gMolise pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dMolise",
+      "ownership" : "gMolise pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 28
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 44
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 11
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 54
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dFriuli Venezia-Giulia",
-      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dFriuli Venezia-Giulia",
+      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 18
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iCampania",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iCampania",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 7
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 26
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 87
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia priv",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 11
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dMolise",
-      "tipo di struttura" : "gMolise pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dMolise",
+      "ownership" : "gMolise pub",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 11
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 20
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 15
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 14
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 26
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub_aoui",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub_aoui",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iPuglia",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iPuglia",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 88
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub_aoui",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub_aoui",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dFriuli Venezia-Giulia",
-      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dFriuli Venezia-Giulia",
+      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub_aoui",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iBasilicata",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iBasilicata",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dValle d'Aosta",
-      "tipo di struttura" : "gValle d'Aosta pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dValle d'Aosta",
+      "ownership" : "gValle d'Aosta pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 32
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 37
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia priv",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 24
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub_aoui",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub_aoui",
       "value" : 11
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub_aoui",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub_aoui",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dMolise",
-      "tipo di struttura" : "gMolise pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dMolise",
+      "ownership" : "gMolise pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 30
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 12
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 18
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dBasilicata",
-      "tipo di struttura" : "gBasilicata pub",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dBasilicata",
+      "ownership" : "gBasilicata pub",
       "value" : 31
     },
     {
-      "regione residenza paziente" : "iCalabria",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo priv",
+      "patient residence region" : "iCalabria",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub_aoui",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dValle d'Aosta",
-      "tipo di struttura" : "gValle d'Aosta pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dValle d'Aosta",
+      "ownership" : "gValle d'Aosta pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 18
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 31
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 33
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dSardegna",
-      "tipo di struttura" : "gSardegna pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dSardegna",
+      "ownership" : "gSardegna pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dPuglia",
-      "tipo di struttura" : "gPuglia pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dPuglia",
+      "ownership" : "gPuglia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte priv",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 14
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 19
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 36
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 14
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub_aoui",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub_aoui",
       "value" : 10
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio priv",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 20
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dFriuli Venezia-Giulia",
-      "tipo di struttura" : "gFriuli Venezia-Giulia pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dFriuli Venezia-Giulia",
+      "ownership" : "gFriuli Venezia-Giulia pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 13
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub",
       "value" : 4
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dCampania",
-      "tipo di struttura" : "gCampania pub_aoui",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dCampania",
+      "ownership" : "gCampania pub_aoui",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 34
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dBolzano",
-      "tipo di struttura" : "gBolzano pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dBolzano",
+      "ownership" : "gBolzano pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSicilia",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iSicilia",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto priv",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dVeneto",
-      "tipo di struttura" : "gVeneto pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dVeneto",
+      "ownership" : "gVeneto pub",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dUmbria",
-      "tipo di struttura" : "gUmbria pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dUmbria",
+      "ownership" : "gUmbria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dTrentino",
-      "tipo di struttura" : "gTrentino pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dTrentino",
+      "ownership" : "gTrentino pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana priv",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana priv",
       "value" : 22
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub_aoui",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub_aoui",
       "value" : 12
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dToscana",
-      "tipo di struttura" : "gToscana pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dToscana",
+      "ownership" : "gToscana pub",
       "value" : 8
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dSicilia",
-      "tipo di struttura" : "gSicilia pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dSicilia",
+      "ownership" : "gSicilia pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub_aoui",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub_aoui",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte pub",
       "value" : 9
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dPiemonte",
-      "tipo di struttura" : "gPiemonte priv",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dPiemonte",
+      "ownership" : "gPiemonte priv",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dMarche",
-      "tipo di struttura" : "gMarche pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dMarche",
+      "ownership" : "gMarche pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia priv",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia priv",
       "value" : 3
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dLombardia",
-      "tipo di struttura" : "gLombardia pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dLombardia",
+      "ownership" : "gLombardia pub",
       "value" : 17
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria priv",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria priv",
       "value" : 5
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dLiguria",
-      "tipo di struttura" : "gLiguria pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dLiguria",
+      "ownership" : "gLiguria pub",
       "value" : 10
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dLazio",
-      "tipo di struttura" : "gLazio pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dLazio",
+      "ownership" : "gLazio pub",
       "value" : 14
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dFriuli Venezia-Giulia",
-      "tipo di struttura" : "gFriuli Venezia-Giulia pub_aoui",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dFriuli Venezia-Giulia",
+      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna pub",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dEmilia-Romagna",
-      "tipo di struttura" : "gEmilia-Romagna priv",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dEmilia-Romagna",
+      "ownership" : "gEmilia-Romagna priv",
       "value" : 2
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dCalabria",
-      "tipo di struttura" : "gCalabria pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dCalabria",
+      "ownership" : "gCalabria pub",
       "value" : 1
     },
     {
-      "regione residenza paziente" : "iSardegna",
-      "regione ricovero" : "dAbruzzo",
-      "tipo di struttura" : "gAbruzzo pub",
+      "patient residence region" : "iSardegna",
+      "hospitalization region" : "dAbruzzo",
+      "ownership" : "gAbruzzo pub",
       "value" : 1
     }]
