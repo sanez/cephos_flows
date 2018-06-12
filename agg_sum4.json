@@ -210,197 +210,197 @@
       "value" : 10
     },
  {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gToscana priv",
       "value" : 714
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gToscana pub_aoui",
       "value" : 384
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gToscana pub",
       "value" : 157
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gLombardia pub",
       "value" : 354
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gLombardia priv",
       "value" : 120
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gEmilia-Romagna pub",
       "value" : 221
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gEmilia-Romagna priv",
       "value" : 168
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gVeneto pub",
       "value" : 110
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gVeneto priv",
       "value" : 216
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gVeneto pub_aoui",
       "value" : 5
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gLazio pub",
       "value" : 243
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gLazio pub_aoui",
       "value" : 62
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gLazio priv",
       "value" : 17
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gLiguria pub",
       "value" : 256
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gLiguria priv",
       "value" : 28
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gAbruzzo priv",
       "value" : 164
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gAbruzzo pub",
       "value" : 102
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gPiemonte pub",
       "value" : 162
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gPiemonte pub_aoui",
       "value" : 28
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gPiemonte priv",
       "value" : 8
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gMarche pub",
       "value" : 188
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gSicilia pub",
       "value" : 101
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gSicilia pub_aoui",
       "value" : 28
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gSicilia priv",
       "value" : 11
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gPuglia pub",
       "value" : 83
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gPuglia pub_aoui",
       "value" : 10
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gCalabria pub",
       "value" : 87
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gCalabria priv",
       "value" : 2
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gCampania pub",
       "value" : 66
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gCampania pub_aoui",
       "value" : 14
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gBasilicata pub",
       "value" : 72
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gMolise pub",
       "value" : 45
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gSardegna pub",
       "value" : 38
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gUmbria pub",
       "value" : 30
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gBolzano pub",
       "value" : 24
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gValle d'Aosta pub",
       "value" : 14
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 9
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gFriuli Venezia-Giulia pub",
       "value" : 5
     },
     {
-      "aggregate" : "ownership",
+      "aggregate" : "hospital ownership",
       "dimension" : "gTrentino pub",
       "value" : 10
     }

@@ -2,2760 +2,2760 @@
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 7
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 4
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dValle d'Aosta",
-      "ownership" : "gValle d'Aosta pub",
+      "hospital ownership" : "gValle d'Aosta pub",
       "value" : 10
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dTrentino",
-      "ownership" : "gTrentino pub",
+      "hospital ownership" : "gTrentino pub",
       "value" : 1
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 44
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 7
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 9
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 8
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia priv",
+      "hospital ownership" : "gSicilia priv",
       "value" : 2
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 4
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 10
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 4
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 69
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 22
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 56
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 6
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 1
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 18
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dFriuli Venezia-Giulia",
-      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
+      "hospital ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 3
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 8
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 3
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 6
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 1
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 6
     },
     {
       "patient residence region" : "iPiemonte",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 1
     },
     {
       "patient residence region" : "iValle d'Aosta",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 1
     },
     {
       "patient residence region" : "iValle d'Aosta",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iValle d'Aosta",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte priv",
+      "hospital ownership" : "gPiemonte priv",
       "value" : 1
     },
     {
       "patient residence region" : "iValle d'Aosta",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 5
     },
     {
       "patient residence region" : "iValle d'Aosta",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iValle d'Aosta",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 1
     },
     {
       "patient residence region" : "iValle d'Aosta",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 2
     },
     {
       "patient residence region" : "iValle d'Aosta",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 1
     },
     {
       "patient residence region" : "iValle d'Aosta",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria priv",
+      "hospital ownership" : "gCalabria priv",
       "value" : 1
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 33
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 14
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dValle d'Aosta",
-      "ownership" : "gValle d'Aosta pub",
+      "hospital ownership" : "gValle d'Aosta pub",
       "value" : 1
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 27
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 17
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 105
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia priv",
+      "hospital ownership" : "gSicilia priv",
       "value" : 3
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub_aoui",
+      "hospital ownership" : "gSicilia pub_aoui",
       "value" : 5
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 30
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 5
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 13
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 47
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 8
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte priv",
+      "hospital ownership" : "gPiemonte priv",
       "value" : 3
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dMolise",
-      "ownership" : "gMolise pub",
+      "hospital ownership" : "gMolise pub",
       "value" : 5
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 8
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 5
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 49
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 8
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 10
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 35
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 54
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 12
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub_aoui",
+      "hospital ownership" : "gCampania pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 8
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 2
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 3
     },
     {
       "patient residence region" : "iLombardia",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 7
     },
     {
       "patient residence region" : "iBolzano",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 6
     },
     {
       "patient residence region" : "iBolzano",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 6
     },
     {
       "patient residence region" : "iBolzano",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 2
     },
     {
       "patient residence region" : "iBolzano",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iBolzano",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 2
     },
     {
       "patient residence region" : "iBolzano",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 1
     },
     {
       "patient residence region" : "iBolzano",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 1
     },
     {
       "patient residence region" : "iBolzano",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 3
     },
     {
       "patient residence region" : "iBolzano",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 17
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 5
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 2
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 2
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 2
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 2
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 3
     },
     {
       "patient residence region" : "iTrentino",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 7
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dTrentino",
-      "ownership" : "gTrentino pub",
+      "hospital ownership" : "gTrentino pub",
       "value" : 3
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 6
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 12
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 23
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 3
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 1
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 6
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 12
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 1
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 8
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 26
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 4
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 4
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 1
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dFriuli Venezia-Giulia",
-      "ownership" : "gFriuli Venezia-Giulia pub",
+      "hospital ownership" : "gFriuli Venezia-Giulia pub",
       "value" : 2
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dFriuli Venezia-Giulia",
-      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
+      "hospital ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 22
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 1
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 2
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 5
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 3
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 2
     },
     {
       "patient residence region" : "iVeneto",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 1
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub_aoui",
+      "hospital ownership" : "gVeneto pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 97
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 27
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dTrentino",
-      "ownership" : "gTrentino pub",
+      "hospital ownership" : "gTrentino pub",
       "value" : 2
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 5
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 6
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 4
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 3
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 1
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 2
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 6
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 1
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 1
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 2
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 3
     },
     {
       "patient residence region" : "iFriuli Venezia-Giulia",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 4
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 2
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 4
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 9
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 31
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 102
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub_aoui",
+      "hospital ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 5
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 1
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 26
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 3
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 17
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 8
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 3
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 18
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 23
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub_aoui",
+      "hospital ownership" : "gCampania pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 2
     },
     {
       "patient residence region" : "iLiguria",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 1
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 17
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 10
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 2
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 21
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 11
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 36
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub_aoui",
+      "hospital ownership" : "gSicilia pub_aoui",
       "value" : 3
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 2
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 8
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 5
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 35
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 40
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 6
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 8
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 3
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 1
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 11
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 3
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria priv",
+      "hospital ownership" : "gCalabria priv",
       "value" : 1
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 5
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 1
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 2
     },
     {
       "patient residence region" : "iEmilia-Romagna",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 7
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 4
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 3
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 5
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dTrentino",
-      "ownership" : "gTrentino pub",
+      "hospital ownership" : "gTrentino pub",
       "value" : 1
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia priv",
+      "hospital ownership" : "gSicilia priv",
       "value" : 2
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 8
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub_aoui",
+      "hospital ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 9
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte priv",
+      "hospital ownership" : "gPiemonte priv",
       "value" : 1
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 3
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 4
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 24
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 2
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 2
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 35
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 3
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 8
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 3
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dFriuli Venezia-Giulia",
-      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
+      "hospital ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 3
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 21
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 12
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 4
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub_aoui",
+      "hospital ownership" : "gCampania pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 5
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 1
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 1
     },
     {
       "patient residence region" : "iToscana",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 2
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 4
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 2
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 5
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 94
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 17
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 30
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 4
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 1
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 19
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 1
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 16
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 1
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 2
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 1
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 1
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 8
     },
     {
       "patient residence region" : "iUmbria",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 1
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 2
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 5
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dTrentino",
-      "ownership" : "gTrentino pub",
+      "hospital ownership" : "gTrentino pub",
       "value" : 1
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 25
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 13
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 2
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub_aoui",
+      "hospital ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia priv",
+      "hospital ownership" : "gSicilia priv",
       "value" : 1
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 2
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub_aoui",
+      "hospital ownership" : "gPuglia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 2
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 2
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dMolise",
-      "ownership" : "gMolise pub",
+      "hospital ownership" : "gMolise pub",
       "value" : 3
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 6
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 4
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 2
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 15
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 10
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 7
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 2
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 5
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 1
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 1
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 18
     },
     {
       "patient residence region" : "iMarche",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 26
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 4
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 6
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 7
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 17
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 23
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 60
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 5
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub_aoui",
+      "hospital ownership" : "gSicilia pub_aoui",
       "value" : 4
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 9
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 10
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 6
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dMolise",
-      "ownership" : "gMolise pub",
+      "hospital ownership" : "gMolise pub",
       "value" : 6
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 7
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 5
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 21
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 11
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 1
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 16
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 2
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub_aoui",
+      "hospital ownership" : "gCampania pub_aoui",
       "value" : 5
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 20
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 10
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 6
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 26
     },
     {
       "patient residence region" : "iLazio",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 8
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 1
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 3
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 9
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 61
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 8
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub_aoui",
+      "hospital ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 3
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dMolise",
-      "ownership" : "gMolise pub",
+      "hospital ownership" : "gMolise pub",
       "value" : 16
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 71
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 2
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 5
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 5
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 22
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 6
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dFriuli Venezia-Giulia",
-      "ownership" : "gFriuli Venezia-Giulia pub",
+      "hospital ownership" : "gFriuli Venezia-Giulia pub",
       "value" : 2
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
       "patient residence region" : "iAbruzzo",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 12
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 1
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 8
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 1
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 2
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 1
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 2
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 6
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 1
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 22
     },
     {
       "patient residence region" : "iMolise",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 12
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 4
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 6
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dValle d'Aosta",
-      "ownership" : "gValle d'Aosta pub",
+      "hospital ownership" : "gValle d'Aosta pub",
       "value" : 1
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 2
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dTrentino",
-      "ownership" : "gTrentino pub",
+      "hospital ownership" : "gTrentino pub",
       "value" : 1
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 17
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 30
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 30
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 9
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub_aoui",
+      "hospital ownership" : "gSicilia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 2
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub_aoui",
+      "hospital ownership" : "gPuglia pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 15
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 3
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 5
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dMolise",
-      "ownership" : "gMolise pub",
+      "hospital ownership" : "gMolise pub",
       "value" : 9
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 7
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 9
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 28
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 1
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 44
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 11
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 4
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 54
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dFriuli Venezia-Giulia",
-      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
+      "hospital ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 18
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 7
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 9
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 4
     },
     {
       "patient residence region" : "iCampania",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 4
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 2
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 7
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 26
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 87
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 6
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia priv",
+      "hospital ownership" : "gSicilia priv",
       "value" : 1
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 1
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 11
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dMolise",
-      "ownership" : "gMolise pub",
+      "hospital ownership" : "gMolise pub",
       "value" : 5
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 11
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 20
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 15
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 6
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 1
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 14
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 1
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 6
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 9
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 26
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 2
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub_aoui",
+      "hospital ownership" : "gCampania pub_aoui",
       "value" : 3
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 1
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 17
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 9
     },
     {
       "patient residence region" : "iPuglia",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 88
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 2
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 2
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub_aoui",
+      "hospital ownership" : "gVeneto pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 17
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 6
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 2
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub_aoui",
+      "hospital ownership" : "gPuglia pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 9
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 2
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 2
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 4
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 3
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 4
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 3
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 1
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dFriuli Venezia-Giulia",
-      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
+      "hospital ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 1
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 3
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub_aoui",
+      "hospital ownership" : "gCampania pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 8
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iBasilicata",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 2
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 1
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 4
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dValle d'Aosta",
-      "ownership" : "gValle d'Aosta pub",
+      "hospital ownership" : "gValle d'Aosta pub",
       "value" : 1
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 2
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 32
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 37
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 17
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia priv",
+      "hospital ownership" : "gSicilia priv",
       "value" : 2
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 24
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub_aoui",
+      "hospital ownership" : "gSicilia pub_aoui",
       "value" : 11
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub_aoui",
+      "hospital ownership" : "gPuglia pub_aoui",
       "value" : 5
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 9
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dMolise",
-      "ownership" : "gMolise pub",
+      "hospital ownership" : "gMolise pub",
       "value" : 1
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 1
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 30
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 9
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 1
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 8
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 1
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 12
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 18
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 17
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 4
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dBasilicata",
-      "ownership" : "gBasilicata pub",
+      "hospital ownership" : "gBasilicata pub",
       "value" : 31
     },
     {
       "patient residence region" : "iCalabria",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo priv",
+      "hospital ownership" : "gAbruzzo priv",
       "value" : 1
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 9
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub_aoui",
+      "hospital ownership" : "gVeneto pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 2
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dValle d'Aosta",
-      "ownership" : "gValle d'Aosta pub",
+      "hospital ownership" : "gValle d'Aosta pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 18
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 31
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 33
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dSardegna",
-      "ownership" : "gSardegna pub",
+      "hospital ownership" : "gSardegna pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dPuglia",
-      "ownership" : "gPuglia pub",
+      "hospital ownership" : "gPuglia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 3
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte priv",
+      "hospital ownership" : "gPiemonte priv",
       "value" : 2
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 14
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 19
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 36
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 14
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 1
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub_aoui",
+      "hospital ownership" : "gLazio pub_aoui",
       "value" : 10
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio priv",
+      "hospital ownership" : "gLazio priv",
       "value" : 2
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 20
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dFriuli Venezia-Giulia",
-      "ownership" : "gFriuli Venezia-Giulia pub",
+      "hospital ownership" : "gFriuli Venezia-Giulia pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 6
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 13
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub",
+      "hospital ownership" : "gCampania pub",
       "value" : 4
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dCampania",
-      "ownership" : "gCampania pub_aoui",
+      "hospital ownership" : "gCampania pub_aoui",
       "value" : 2
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 34
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dBolzano",
-      "ownership" : "gBolzano pub",
+      "hospital ownership" : "gBolzano pub",
       "value" : 2
     },
     {
       "patient residence region" : "iSicilia",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 2
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto priv",
+      "hospital ownership" : "gVeneto priv",
       "value" : 3
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dVeneto",
-      "ownership" : "gVeneto pub",
+      "hospital ownership" : "gVeneto pub",
       "value" : 3
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dUmbria",
-      "ownership" : "gUmbria pub",
+      "hospital ownership" : "gUmbria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dTrentino",
-      "ownership" : "gTrentino pub",
+      "hospital ownership" : "gTrentino pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana priv",
+      "hospital ownership" : "gToscana priv",
       "value" : 22
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub_aoui",
+      "hospital ownership" : "gToscana pub_aoui",
       "value" : 12
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dToscana",
-      "ownership" : "gToscana pub",
+      "hospital ownership" : "gToscana pub",
       "value" : 8
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dSicilia",
-      "ownership" : "gSicilia pub",
+      "hospital ownership" : "gSicilia pub",
       "value" : 2
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub_aoui",
+      "hospital ownership" : "gPiemonte pub_aoui",
       "value" : 5
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte pub",
+      "hospital ownership" : "gPiemonte pub",
       "value" : 9
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dPiemonte",
-      "ownership" : "gPiemonte priv",
+      "hospital ownership" : "gPiemonte priv",
       "value" : 1
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dMarche",
-      "ownership" : "gMarche pub",
+      "hospital ownership" : "gMarche pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia priv",
+      "hospital ownership" : "gLombardia priv",
       "value" : 3
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dLombardia",
-      "ownership" : "gLombardia pub",
+      "hospital ownership" : "gLombardia pub",
       "value" : 17
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria priv",
+      "hospital ownership" : "gLiguria priv",
       "value" : 5
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dLiguria",
-      "ownership" : "gLiguria pub",
+      "hospital ownership" : "gLiguria pub",
       "value" : 10
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dLazio",
-      "ownership" : "gLazio pub",
+      "hospital ownership" : "gLazio pub",
       "value" : 14
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dFriuli Venezia-Giulia",
-      "ownership" : "gFriuli Venezia-Giulia pub_aoui",
+      "hospital ownership" : "gFriuli Venezia-Giulia pub_aoui",
       "value" : 1
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna pub",
+      "hospital ownership" : "gEmilia-Romagna pub",
       "value" : 2
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dEmilia-Romagna",
-      "ownership" : "gEmilia-Romagna priv",
+      "hospital ownership" : "gEmilia-Romagna priv",
       "value" : 2
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dCalabria",
-      "ownership" : "gCalabria pub",
+      "hospital ownership" : "gCalabria pub",
       "value" : 1
     },
     {
       "patient residence region" : "iSardegna",
       "hospitalization region" : "dAbruzzo",
-      "ownership" : "gAbruzzo pub",
+      "hospital ownership" : "gAbruzzo pub",
       "value" : 1
     }]
