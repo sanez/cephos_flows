@@ -1,0 +1,282 @@
+[
+    {
+      "aggregate" : "patient_residence_ulss",
+      "dimension" : "i503. Serenissima",
+      "value" : 423
+    },
+    {
+      "aggregate" : "patient_residence_ulss",
+      "dimension" : "i508. Berica",
+      "value" : 311
+    },
+    {
+      "aggregate" : "patient_residence_ulss",
+      "dimension" : "i507. Pedemontana",
+      "value" : 191
+    },
+    {
+      "aggregate" : "patient_residence_ulss",
+      "dimension" : "i502. Marca Trevigiana",
+      "value" : 169
+    },
+    {
+      "aggregate" : "patient_residence_ulss",
+      "dimension" : "i505. Polesana",
+      "value" : 156
+    },
+    {
+      "aggregate" : "patient_residence_ulss",
+      "dimension" : "i506. Euganea",
+      "value" : 97
+    },
+    {
+      "aggregate" : "patient_residence_ulss",
+      "dimension" : "i504. Veneto Orientale",
+      "value" : 69
+    },
+    {
+      "aggregate" : "patient_residence_ulss",
+      "dimension" : "i509. Scaligera",
+      "value" : 37
+    },
+    {
+      "aggregate" : "patient_residence_ulss",
+      "dimension" : "i501. Dolomiti",
+      "value" : 36
+    },
+    {
+      "aggregate" : "hospitalization_ulss",
+      "dimension" : "d506. Euganea",
+      "value" : 875
+    },
+    {
+      "aggregate" : "hospitalization_ulss",
+      "dimension" : "d509. Scaligera",
+      "value" : 465
+    },
+    {
+      "aggregate" : "hospitalization_ulss",
+      "dimension" : "d503. Serenissima",
+      "value" : 73
+    },
+    {
+      "aggregate" : "hospitalization_ulss",
+      "dimension" : "d502. Marca Trevigiana",
+      "value" : 41
+    },
+    {
+      "aggregate" : "hospitalization_ulss",
+      "dimension" : "d507. Pedemontana",
+      "value" : 23
+    },
+    {
+      "aggregate" : "hospitalization_ulss",
+      "dimension" : "d504. Veneto Orientale",
+      "value" : 19
+    },
+    {
+      "aggregate" : "hospitalization_ulss",
+      "dimension" : "d505. Polesana",
+      "value" : 13
+    },
+    {
+      "aggregate" : "hospitalization_ulss",
+      "dimension" : "d501. Dolomiti",
+      "value" : 9
+    },
+    {
+      "aggregate" : "hospitalization_ulss",
+      "dimension" : "d508. Berica",
+      "value" : 4
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gAZIENDA OSPEDALIERA PADOVA",
+      "value" : 770
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gAZ.OSP. UNIVERSITARIA INTEGRATA VERONA",
+      "value" : 442
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gPOLIAMBULATORIO MONSELICE",
+      "value" : 29
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gSER.POLIAM.CENTRO PONTAROLLO",
+      "value" : 28
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gDIST.1 POLIAMB.-CA SAVIO",
+      "value" : 27
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE DI MESTRE",
+      "value" : 24
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE DI TREVISO",
+      "value" : 19
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE DI S. ANTONIO",
+      "value" : 19
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE S. BONIFACIO",
+      "value" : 19
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gPOLIAMBULATORIO P.O. JESOLO",
+      "value" : 17
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gATTIVITA EXTRAOSP. BASSANO",
+      "value" : 16
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gSER.POLIAMB.CAMPOSAMPIERO",
+      "value" : 16
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gPOLIAMB. OSPEDALE MIRANO",
+      "value" : 12
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gPOLIAMB. OSPEDALE ROVIGO",
+      "value" : 10
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOspedale di Vittorio Veneto",
+      "value" : 7
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE di Chioggia",
+      "value" : 7
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gPOLIAMBULATORIO OSPEDALE FELTRE",
+      "value" : 6
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gPOLIAMBUL. P.O. DI CONEGLIANO",
+      "value" : 5
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE DI PIOVE DI SACCO",
+      "value" : 5
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE ALTO VICENTINO",
+      "value" : 5
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gEuganea",
+      "value" : 5
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gPOLIAMB.TERRIT.LEGNAGO",
+      "value" : 4
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE DI CASTELFRANCO VENETO",
+      "value" : 4
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gAlta Padovana",
+      "value" : 3
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE CIVILE DI ADRIA",
+      "value" : 3
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gDolomiti",
+      "value" : 2
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gDISTRETTO SOCIO SANITARIO - SPINEA",
+      "value" : 2
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gPOLIAMBULATORIO San Dona di Piave",
+      "value" : 2
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOvest Vicentino",
+      "value" : 2
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gTreviso S.C. POLIAMBULATORIO",
+      "value" : 2
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gVicenza SERVIZIO TERRITORIALE DI PNEUMOTISIOLOGIA",
+      "value" : 2
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gDISTRETTO SUD - SEDE DI MOGLIANO VENETO",
+      "value" : 2
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gBelluno",
+      "value" : 1
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gDISTRETTO SOCIO SANITARIO - MIRA",
+      "value" : 1
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE DI MONTEBELLUNA",
+      "value" : 1
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE DI SANTORSO",
+      "value" : 1
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gOSPEDALE DI ASIAGO",
+      "value" : 1
+    },
+    {
+      "aggregate" : "nome_centro",
+      "dimension" : "gPOLIAMBULATORIO OSPEDALE ODERZO",
+      "value" : 1
+    }
+  ]

@@ -1,0 +1,531 @@
+[
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAZIENDA OSPEDALIERA PADOVA",
+      "value" : 353
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gAZ.OSP. UNIVERSITARIA INTEGRATA VERONA",
+      "value" : 179
+    },
+    {
+      "patient_residence_ulss" : "i505. Polesana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAZIENDA OSPEDALIERA PADOVA",
+      "value" : 101
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAZIENDA OSPEDALIERA PADOVA",
+      "value" : 88
+    },
+    {
+      "patient_residence_ulss" : "i507. Pedemontana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAZIENDA OSPEDALIERA PADOVA",
+      "value" : 81
+    },
+    {
+      "patient_residence_ulss" : "i507. Pedemontana",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gAZ.OSP. UNIVERSITARIA INTEGRATA VERONA",
+      "value" : 73
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAZIENDA OSPEDALIERA PADOVA",
+      "value" : 64
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gAZ.OSP. UNIVERSITARIA INTEGRATA VERONA",
+      "value" : 62
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gAZ.OSP. UNIVERSITARIA INTEGRATA VERONA",
+      "value" : 44
+    },
+    {
+      "patient_residence_ulss" : "i509. Scaligera",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAZIENDA OSPEDALIERA PADOVA",
+      "value" : 33
+    },
+    {
+      "patient_residence_ulss" : "i505. Polesana",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gAZ.OSP. UNIVERSITARIA INTEGRATA VERONA",
+      "value" : 29
+    },
+    {
+      "patient_residence_ulss" : "i504. Veneto Orientale",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gDIST.1 POLIAMB.-CA SAVIO",
+      "value" : 27
+    },
+    {
+      "patient_residence_ulss" : "i507. Pedemontana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gSER.POLIAM.CENTRO PONTAROLLO",
+      "value" : 27
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gAZ.OSP. UNIVERSITARIA INTEGRATA VERONA",
+      "value" : 27
+    },
+    {
+      "patient_residence_ulss" : "i504. Veneto Orientale",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAZIENDA OSPEDALIERA PADOVA",
+      "value" : 26
+    },
+    {
+      "patient_residence_ulss" : "i501. Dolomiti",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAZIENDA OSPEDALIERA PADOVA",
+      "value" : 19
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d504. Veneto Orientale",
+      "nome_centro" : "gPOLIAMBULATORIO P.O. JESOLO",
+      "value" : 17
+    },
+    {
+      "patient_residence_ulss" : "i505. Polesana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gPOLIAMBULATORIO MONSELICE",
+      "value" : 16
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gOSPEDALE S. BONIFACIO",
+      "value" : 15
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d507. Pedemontana",
+      "nome_centro" : "gATTIVITA EXTRAOSP. BASSANO",
+      "value" : 12
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gOSPEDALE DI MESTRE",
+      "value" : 12
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gOSPEDALE DI S. ANTONIO",
+      "value" : 10
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gOSPEDALE DI TREVISO",
+      "value" : 10
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gPOLIAMBULATORIO MONSELICE",
+      "value" : 10
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d505. Polesana",
+      "nome_centro" : "gPOLIAMB. OSPEDALE ROVIGO",
+      "value" : 9
+    },
+    {
+      "patient_residence_ulss" : "i501. Dolomiti",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gAZ.OSP. UNIVERSITARIA INTEGRATA VERONA",
+      "value" : 8
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gSER.POLIAMB.CAMPOSAMPIERO",
+      "value" : 8
+    },
+    {
+      "patient_residence_ulss" : "i501. Dolomiti",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gOspedale di Vittorio Veneto",
+      "value" : 6
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gOSPEDALE DI MESTRE",
+      "value" : 5
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gPOLIAMB. OSPEDALE MIRANO",
+      "value" : 5
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gOSPEDALE DI PIOVE DI SACCO",
+      "value" : 5
+    },
+    {
+      "patient_residence_ulss" : "i504. Veneto Orientale",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gAZ.OSP. UNIVERSITARIA INTEGRATA VERONA",
+      "value" : 5
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gOSPEDALE di Chioggia",
+      "value" : 5
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d507. Pedemontana",
+      "nome_centro" : "gOSPEDALE ALTO VICENTINO",
+      "value" : 5
+    },
+    {
+      "patient_residence_ulss" : "i504. Veneto Orientale",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gOSPEDALE DI TREVISO",
+      "value" : 5
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gOSPEDALE DI S. ANTONIO",
+      "value" : 4
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d501. Dolomiti",
+      "nome_centro" : "gPOLIAMBULATORIO OSPEDALE FELTRE",
+      "value" : 4
+    },
+    {
+      "patient_residence_ulss" : "i504. Veneto Orientale",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gOSPEDALE DI MESTRE",
+      "value" : 3
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gPOLIAMBUL. P.O. DI CONEGLIANO",
+      "value" : 3
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gSER.POLIAMB.CAMPOSAMPIERO",
+      "value" : 3
+    },
+    {
+      "patient_residence_ulss" : "i505. Polesana",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gPOLIAMB.TERRIT.LEGNAGO",
+      "value" : 3
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d507. Pedemontana",
+      "nome_centro" : "gATTIVITA EXTRAOSP. BASSANO",
+      "value" : 3
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gPOLIAMB. OSPEDALE MIRANO",
+      "value" : 3
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gOSPEDALE DI CASTELFRANCO VENETO",
+      "value" : 3
+    },
+    {
+      "patient_residence_ulss" : "i505. Polesana",
+      "hospitalization_ulss" : "d508. Berica",
+      "nome_centro" : "gVicenza SERVIZIO TERRITORIALE DI PNEUMOTISIOLOGIA",
+      "value" : 2
+    },
+    
+    {
+      "patient_residence_ulss" : "i504. Veneto Orientale",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gPOLIAMB. OSPEDALE MIRANO",
+      "value" : 2
+    },
+    
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gEuganea",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i507. Pedemontana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gSER.POLIAMB.CAMPOSAMPIERO",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i507. Pedemontana",
+      "hospitalization_ulss" : "d501. Dolomiti",
+      "nome_centro" : "gPOLIAMBULATORIO OSPEDALE FELTRE",
+      "value" : 2
+    },
+ 
+    {
+      "patient_residence_ulss" : "i507. Pedemontana",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gOSPEDALE DI MESTRE",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gDISTRETTO SUD - SEDE DI MOGLIANO VENETO",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gTreviso S.C. POLIAMBULATORIO",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gEuganea",
+      "value" : 2
+    },
+   
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gSER.POLIAMB.CAMPOSAMPIERO",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i507. Pedemontana",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gPOLIAMB. OSPEDALE MIRANO",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gOSPEDALE DI TREVISO",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i505. Polesana",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gOSPEDALE di Chioggia",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i509. Scaligera",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gPOLIAMBULATORIO MONSELICE",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gOSPEDALE DI S. ANTONIO",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d504. Veneto Orientale",
+      "nome_centro" : "gPOLIAMBULATORIO San Dona di Piave",
+      "value" : 2
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d508. Berica",
+      "nome_centro" : "gOvest Vicentino",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i505. Polesana",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gDISTRETTO SOCIO SANITARIO - MIRA",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAlta Padovana",
+      "value" : 1
+    },
+   
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gSER.POLIAM.CENTRO PONTAROLLO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i504. Veneto Orientale",
+      "hospitalization_ulss" : "d501. Dolomiti",
+      "nome_centro" : "gDolomiti",
+      "value" : 1
+    },
+   
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gOSPEDALE S. BONIFACIO",
+      "value" : 1
+    },
+
+    {
+      "patient_residence_ulss" : "i509. Scaligera",
+      "hospitalization_ulss" : "d508. Berica",
+      "nome_centro" : "gOvest Vicentino",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gPOLIAMB.TERRIT.LEGNAGO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i507. Pedemontana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gEuganea",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d507. Pedemontana",
+      "nome_centro" : "gOSPEDALE DI SANTORSO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gOSPEDALE S. BONIFACIO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i505. Polesana",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gOSPEDALE S. BONIFACIO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gOSPEDALE DI MONTEBELLUNA",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i505. Polesana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gOSPEDALE DI S. ANTONIO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i501. Dolomiti",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gOSPEDALE DI S. ANTONIO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i507. Pedemontana",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAlta Padovana",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i501. Dolomiti",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gPOLIAMBULATORIO MONSELICE",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d505. Polesana",
+      "nome_centro" : "gOSPEDALE CIVILE DI ADRIA",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gOSPEDALE DI MESTRE",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i506. Euganea",
+      "hospitalization_ulss" : "d505. Polesana",
+      "nome_centro" : "gOSPEDALE CIVILE DI ADRIA",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d503. Serenissima",
+      "nome_centro" : "gDISTRETTO SOCIO SANITARIO - SPINEA",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i502. Marca Trevigiana",
+      "hospitalization_ulss" : "d509. Scaligera",
+      "nome_centro" : "gOSPEDALE S. BONIFACIO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i508. Berica",
+      "hospitalization_ulss" : "d507. Pedemontana",
+      "nome_centro" : "gOSPEDALE DI ASIAGO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i509. Scaligera",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gPOLIAMBULATORIO OSPEDALE ODERZO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i501. Dolomiti",
+      "hospitalization_ulss" : "d502. Marca Trevigiana",
+      "nome_centro" : "gPOLIAMBUL. P.O. DI CONEGLIANO",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d506. Euganea",
+      "nome_centro" : "gAlta Padovana",
+      "value" : 1
+    },
+    {
+      "patient_residence_ulss" : "i503. Serenissima",
+      "hospitalization_ulss" : "d507. Pedemontana",
+      "nome_centro" : "gATTIVITA EXTRAOSP. BASSANO",
+      "value" : 1
+    }
+  ]
