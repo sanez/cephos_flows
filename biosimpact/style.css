@@ -867,7 +867,7 @@ h1, h2, h3, h4, h5, h6 {
     background-attachment: fixed;
   }
 }
-/*
+
 #about:before {
   content: "";
   background: rgba(13, 20, 41, 0.6);
@@ -877,7 +877,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   right: 0;
 }
-*/
+
 #about h2 {
   font-size: 36px;
   font-weight: bold;
