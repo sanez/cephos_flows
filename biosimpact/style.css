@@ -857,7 +857,7 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
   overflow: hidden;
   position: relative;
-  color: #000;
+  color: #fff;
   padding: 60px 0 40px 0;
   height:400px;
 }
