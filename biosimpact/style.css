@@ -1132,7 +1132,7 @@ h1, h2, h3, h4, h5, h6 {
   #projects-details #logo-oms img  {
      max-width:150px;
   }
-  
+  #projects .projects .details {width:320px;}
 }
 
 
