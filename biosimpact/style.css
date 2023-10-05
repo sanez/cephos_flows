@@ -1312,6 +1312,76 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+
+
+#schedule .nav-tabs2 {
+  text-align: center;
+  margin: auto;
+  display: block;
+  border-bottom: 0;
+  margin-bottom: 30px;
+}
+
+#schedule .nav-tabs2 li {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+#schedule .nav-tabs2 a {
+  border: none;
+  border-radius: 50px;
+  font-weight: 600;
+  background-color: #0e1b4d;
+  color: #fff;
+ padding: 8px 60px;
+	margin-top: 5px;
+}
+
+@media (max-width: 991px) {
+  #schedule .nav-tabs2 a {
+    padding: 8px 60px;
+	margin-top: 5px;
+  }
+  
+}
+
+@media (max-width: 767px) {
+  #schedule .nav-tabs2 a {
+    padding: 6px 30px;
+	margin-top: 5px;
+  }
+}
+
+@media (max-width: 480px) {
+  #schedule .nav-tabs2 a {
+    padding: 4px 15px;
+	margin-top: 5px;
+  }
+}
+
+#schedule .nav-tabs2 a.active {
+  background-color: #009c99;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #schedule .sub-heading {
   text-align: center;
   font-size: 18px;
