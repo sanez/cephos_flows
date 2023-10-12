@@ -332,6 +332,7 @@ background:#fff;
   transition: all 0.3s ease-in-out 0s;
 }
 
+/*
 .navbar a:hover:before, .navbar li:hover > a:before, .navbar .active:before {
   visibility: visible;
   width: 100%;
@@ -340,6 +341,7 @@ background:#fff;
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #fff;
 }
+*/
 
 .navbar .dropdown ul {
   display: block;
