@@ -1,4 +1,10 @@
-
+/**
+* Template Name: TheEvent
+* Updated: Jul 27 2023 with Bootstrap v5.3.1
+* Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 (function() {
   "use strict";
 
@@ -38,7 +44,7 @@
   /**
    * Navbar links active state on scroll
    */
-  let navbarlinks = select('#navbar .scrollto', true)
+  let navbarlinks = select('#schedule .scrollto', true)
   const navbarlinksActive = () => {
     let position = window.scrollY + 200
     navbarlinks.forEach(navbarlink => {
@@ -131,9 +137,9 @@
     if (select(this.hash)) {
       e.preventDefault()
 
-      let navbar = select('#navbar')
-      if (navbar.classList.contains('navbar-mobile')) {
-        navbar.classList.remove('navbar-mobile')
+      let schedule = select('#schedule')
+      if (schedule.classList.contains('navbar-mobile')) {
+        schedule.classList.remove('navbar-mobile')
         let navbarToggle = select('.mobile-nav-toggle')
         navbarToggle.classList.toggle('bi-list')
         navbarToggle.classList.toggle('bi-x')
@@ -160,7 +166,56 @@
     selector: '.glightbox'
   });
 
-  
+  /**
+   * Gallery Slider
+   */
+  new Swiper('.gallery-slider', {
+    speed: 400,
+    loop: true,
+    centeredSlides: true,
+    autoplay: {
+      delay: 5000,
+      disableOnInteraction: false
+    },
+    slidesPerView: 'auto',
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+      clickable: true
+    },
+    breakpoints: {
+      320: {
+        slidesPerView: 1,
+        spaceBetween: 20
+      },
+      575: {
+        slidesPerView: 2,
+        spaceBetween: 20
+      },
+      768: {
+        slidesPerView: 3,
+        spaceBetween: 20
+      },
+      992: {
+        slidesPerView: 5,
+        spaceBetween: 20
+      }
+    }
+  });
+
+  /**
+   * Initiate gallery lightbox 
+   */
+  const galleryLightbox = GLightbox({
+    selector: '.gallery-lightbox'
+  });
+
+  /**
+   * Buy tickets select the ticket type on click
+   */
+  on('show.bs.modal', '#buy-ticket-modal', function(event) {
+    select('#buy-ticket-modal #ticket-type').value = event.relatedTarget.getAttribute('data-ticket-type')
+  })
 
   /**
    * Animation on scroll
