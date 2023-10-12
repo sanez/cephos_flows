@@ -46,7 +46,7 @@
    */
   let navbarlinks = select('#schedule .scrollto', true)
   const navbarlinksActive = () => {
-    let position = window.scrollY + 200
+    let position = window.scrollY + 100
     navbarlinks.forEach(navbarlink => {
       if (!navbarlink.hash) return
       let section = select(navbarlink.hash)
@@ -82,13 +82,13 @@
   /**
    * Toggle .header-scrolled class to #header when page is scrolled
    */
-  let selectHeader = select('#header')
+  let selectHeader = select('#schedule')
   if (selectHeader) {
     const headerScrolled = () => {
-      if (window.scrollY > 100) {
-        selectHeader.classList.add('header-scrolled')
+      if (window.scrollY > 10) {
+        selectHeader.classList.add('schedule-scrolled')
       } else {
-        selectHeader.classList.remove('header-scrolled')
+        selectHeader.classList.remove('schedule-scrolled')
       }
     }
     window.addEventListener('load', headerScrolled)
@@ -101,7 +101,7 @@
   let backtotop = select('.back-to-top')
   if (backtotop) {
     const toggleBacktotop = () => {
-      if (window.scrollY > 100) {
+      if (window.scrollY > 10) {
         backtotop.classList.add('active')
       } else {
         backtotop.classList.remove('active')
