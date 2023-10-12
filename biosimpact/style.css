@@ -197,9 +197,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #header.header-scrolled, #header.header-inner {
   /*background: rgba(6, 12, 34, 0.98);*/
-    background:#bd0000;
+   /* background:#bd0000;*/
+    background:#fff;
 
-  height: 90px;
+  height: 130px;
 }
 
 #header #logo h1 {
@@ -331,12 +332,12 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
-
+/*
 .navbar a:hover:before, .navbar li:hover > a:before, .navbar .active:before {
   visibility: visible;
   width: 100%;
 }
-
+*/
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #fff;
 }
