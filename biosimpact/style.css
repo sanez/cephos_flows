@@ -197,7 +197,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header.header-scrolled, #header.header-inner {
   /*background: rgba(6, 12, 34, 0.98);*/
-   /* background:#bd0000;*/
+    /*background:#bd0000;*/
   background-color: transparent;
 
   height: 130px;
@@ -332,15 +332,17 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
+
 /*
 .navbar a:hover:before, .navbar li:hover > a:before, .navbar .active:before {
   visibility: visible;
   width: 100%;
 }
-*/
+
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #fff;
 }
+*/
 
 .navbar .dropdown ul {
   display: block;
@@ -1308,12 +1310,63 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/*
-#schedule .nav-tabs a.active {
+
+
+#schedule .nav-pills {
+  text-align: center;
+  margin: auto;
+  display: block;
+  border-bottom: 0;
+  margin-bottom: 30px;
+}
+
+#schedule .nav-pills li {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+#schedule .nav-pills a {
+  border: none;
+  border-radius: 50px;
+  font-weight: 600;
+  background-color: #0e1b4d;
+  color: #fff;
+ padding: 8px 60px;
+	margin-top: 5px;
+}
+
+@media (max-width: 991px) {
+  #schedule .nav-pills a {
+    padding: 8px 60px;
+	margin-top: 5px;
+  }
+  
+}
+
+@media (max-width: 767px) {
+  #schedule .nav-pills a {
+    padding: 6px 30px;
+	margin-top: 5px;
+  }
+}
+
+@media (max-width: 480px) {
+  #schedule .nav-pills a {
+    padding: 4px 15px;
+	margin-top: 5px;
+  }
+}
+
+
+
+
+
+
+#schedule .nav-pills a.active {
   background-color: #009c99;
   color: #fff;
 }
-*/
+
 
 
 #schedule .nav-tabs2 {
