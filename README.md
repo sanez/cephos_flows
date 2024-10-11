@@ -1,6 +1,5 @@
 # cephosIT_flows
-BIOSIMPACT project
-https://sites.google.com/view/biosimpact
+
 
 Cephos Link project: Psychiatric Patients migration flows in the Italian study Cohort 2012-2013<br>
 <i>data source: Italian Minister of Health SDO database, Register of discharges from hospitals.</i> <br>
